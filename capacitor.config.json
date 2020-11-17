@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.ionic.inputtest",
   "appName": "inputtest",
   "bundledWebRuntime": false,
   "npmClient": "npm",
@@ -7,6 +7,9 @@
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 0
+    },
+    "Keyboard": {
+      "resizeMode": "none"
     }
   },
   "cordova": {}

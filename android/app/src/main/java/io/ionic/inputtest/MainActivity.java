@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package io.ionic.inputtest;
 
 import android.os.Bundle;
 
